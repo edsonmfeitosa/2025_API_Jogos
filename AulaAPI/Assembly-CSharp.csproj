@@ -61,9 +61,13 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\6000.0.40f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\API_Exemplo_Aula\TesteAPI.cs" />
+    <Compile Include="Assets\Scripts\API_Exemplo_Aula\GameApiService.cs" />
+    <Compile Include="Assets\Scripts\API_Exemplo_Aula\Models\ItemJogador.cs" />
     <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
     <Compile Include="Assets\Scripts\Pokemon.cs" />
     <Compile Include="Assets\Scripts\aulaPokemonAPI.cs" />
+    <Compile Include="Assets\Scripts\API_Exemplo_Aula\Models\Jogador.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
