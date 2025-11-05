@@ -14,7 +14,7 @@ public class TesteAPI : MonoBehaviour
 
         //Adicionar Jogadores
         Jogador novoJogador1 = new Jogador();
-        novoJogador1.Nome = "Heroi";
+        novoJogador1.Nome = "AulaAPIQuarta";
         novoJogador1.Login = "heroi";
         novoJogador1.Senha = "123";
         novoJogador1.Fase = "1";
@@ -53,10 +53,10 @@ public class TesteAPI : MonoBehaviour
         criadoJogador1.Vida = "80";
         Jogador atualizadoJogador1 = await apiService.AtualizarJogador(criadoJogador1.id, criadoJogador1);
 
-        //excluir item do jogador 2
+        ////excluir item do jogador 2
         //await apiService.RemoverItem(criadoJogador1.id, criadoItem2.id);
 
-        //mostrar todos os jogadores
+        ////mostrar todos os jogadores
         await MostrarTodosJogadores();
 
 

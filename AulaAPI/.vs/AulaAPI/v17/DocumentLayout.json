@@ -3,11 +3,27 @@
   "WorkspaceRootPath": "C:\\TesteDesenvolvimento\\2025_API_Jogos\\AulaAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A4442416-B3A7-CB71-0DF0-4B2485917318}|Assembly-CSharp.csproj|c:\\testedesenvolvimento\\2025_api_jogos\\aulaapi\\assets\\scripts\\aulapokemonapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A4442416-B3A7-CB71-0DF0-4B2485917318}|Assembly-CSharp.csproj|c:\\testedesenvolvimento\\2025_api_jogos\\aulaapi\\assets\\scripts\\api_exemplo_aula\\testeapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4442416-B3A7-CB71-0DF0-4B2485917318}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\api_exemplo_aula\\testeapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4442416-B3A7-CB71-0DF0-4B2485917318}|Assembly-CSharp.csproj|C:\\TesteDesenvolvimento\\2025_API_Jogos\\AulaAPI\\assets\\scripts\\api_exemplo_aula\\gameapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4442416-B3A7-CB71-0DF0-4B2485917318}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\api_exemplo_aula\\gameapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4442416-B3A7-CB71-0DF0-4B2485917318}|Assembly-CSharp.csproj|C:\\TesteDesenvolvimento\\2025_API_Jogos\\AulaAPI\\assets\\scripts\\api_exemplo_aula\\models\\jogador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4442416-B3A7-CB71-0DF0-4B2485917318}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\api_exemplo_aula\\models\\jogador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4442416-B3A7-CB71-0DF0-4B2485917318}|Assembly-CSharp.csproj|C:\\TesteDesenvolvimento\\2025_API_Jogos\\AulaAPI\\assets\\scripts\\aulapokemonapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A4442416-B3A7-CB71-0DF0-4B2485917318}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\aulapokemonapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A4442416-B3A7-CB71-0DF0-4B2485917318}|Assembly-CSharp.csproj|c:\\testedesenvolvimento\\2025_api_jogos\\aulaapi\\assets\\scripts\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A4442416-B3A7-CB71-0DF0-4B2485917318}|Assembly-CSharp.csproj|C:\\TesteDesenvolvimento\\2025_API_Jogos\\AulaAPI\\assets\\scripts\\api_exemplo_aula\\models\\itemjogador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4442416-B3A7-CB71-0DF0-4B2485917318}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\api_exemplo_aula\\models\\itemjogador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4442416-B3A7-CB71-0DF0-4B2485917318}|Assembly-CSharp.csproj|C:\\TesteDesenvolvimento\\2025_API_Jogos\\AulaAPI\\assets\\scripts\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A4442416-B3A7-CB71-0DF0-4B2485917318}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -23,19 +39,70 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "TesteAPI.cs",
+              "DocumentMoniker": "C:\\TesteDesenvolvimento\\2025_API_Jogos\\AulaAPI\\Assets\\Scripts\\API_Exemplo_Aula\\TesteAPI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\API_Exemplo_Aula\\TesteAPI.cs",
+              "ToolTip": "C:\\TesteDesenvolvimento\\2025_API_Jogos\\AulaAPI\\Assets\\Scripts\\API_Exemplo_Aula\\TesteAPI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\API_Exemplo_Aula\\TesteAPI.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwD8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T12:21:47.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameApiService.cs",
+              "DocumentMoniker": "C:\\TesteDesenvolvimento\\2025_API_Jogos\\AulaAPI\\Assets\\Scripts\\API_Exemplo_Aula\\GameApiService.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\API_Exemplo_Aula\\GameApiService.cs",
+              "ToolTip": "C:\\TesteDesenvolvimento\\2025_API_Jogos\\AulaAPI\\Assets\\Scripts\\API_Exemplo_Aula\\GameApiService.cs",
+              "RelativeToolTip": "Assets\\Scripts\\API_Exemplo_Aula\\GameApiService.cs",
+              "ViewState": "AgIAANcAAAAAAAAAAAAAwPAAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T12:00:55.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ItemJogador.cs",
+              "DocumentMoniker": "C:\\TesteDesenvolvimento\\2025_API_Jogos\\AulaAPI\\Assets\\Scripts\\API_Exemplo_Aula\\Models\\ItemJogador.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\API_Exemplo_Aula\\Models\\ItemJogador.cs",
+              "ToolTip": "C:\\TesteDesenvolvimento\\2025_API_Jogos\\AulaAPI\\Assets\\Scripts\\API_Exemplo_Aula\\Models\\ItemJogador.cs",
+              "RelativeToolTip": "Assets\\Scripts\\API_Exemplo_Aula\\Models\\ItemJogador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T12:00:18.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Jogador.cs",
+              "DocumentMoniker": "C:\\TesteDesenvolvimento\\2025_API_Jogos\\AulaAPI\\Assets\\Scripts\\API_Exemplo_Aula\\Models\\Jogador.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\API_Exemplo_Aula\\Models\\Jogador.cs",
+              "ToolTip": "C:\\TesteDesenvolvimento\\2025_API_Jogos\\AulaAPI\\Assets\\Scripts\\API_Exemplo_Aula\\Models\\Jogador.cs",
+              "RelativeToolTip": "Assets\\Scripts\\API_Exemplo_Aula\\Models\\Jogador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T11:51:52.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "aulaPokemonAPI.cs",
               "DocumentMoniker": "C:\\TesteDesenvolvimento\\2025_API_Jogos\\AulaAPI\\Assets\\Scripts\\aulaPokemonAPI.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\aulaPokemonAPI.cs",
               "ToolTip": "C:\\TesteDesenvolvimento\\2025_API_Jogos\\AulaAPI\\Assets\\Scripts\\aulaPokemonAPI.cs",
               "RelativeToolTip": "Assets\\Scripts\\aulaPokemonAPI.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBAAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABAAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-17T23:50:27.397Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Pokemon.cs",
               "DocumentMoniker": "C:\\TesteDesenvolvimento\\2025_API_Jogos\\AulaAPI\\Assets\\Scripts\\Pokemon.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Pokemon.cs",
@@ -43,8 +110,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Pokemon.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-17T23:50:24.214Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-17T23:50:24.214Z"
             }
           ]
         }

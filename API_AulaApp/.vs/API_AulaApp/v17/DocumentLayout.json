@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\TesteDesenvolvimento\\2025_API_Jogos\\API_AulaApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0EC2A7A4-DB9D-4135-86B1-25AAEB2CB306}|API_Aula\\API_Aula.csproj|c:\\testedesenvolvimento\\2025_api_jogos\\api_aulaapp\\api_aula\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EC2A7A4-DB9D-4135-86B1-25AAEB2CB306}|API_Aula\\API_Aula.csproj|solutionrelative:api_aula\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EC2A7A4-DB9D-4135-86B1-25AAEB2CB306}|API_Aula\\API_Aula.csproj|c:\\testedesenvolvimento\\2025_api_jogos\\api_aulaapp\\api_aula\\model\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EC2A7A4-DB9D-4135-86B1-25AAEB2CB306}|API_Aula\\API_Aula.csproj|solutionrelative:api_aula\\model\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EC2A7A4-DB9D-4135-86B1-25AAEB2CB306}|API_Aula\\API_Aula.csproj|c:\\testedesenvolvimento\\2025_api_jogos\\api_aulaapp\\api_aula\\api_aula.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0EC2A7A4-DB9D-4135-86B1-25AAEB2CB306}|API_Aula\\API_Aula.csproj|solutionrelative:api_aula\\api_aula.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AlunoController.cs",
+              "DocumentMoniker": "C:\\TesteDesenvolvimento\\2025_API_Jogos\\API_AulaApp\\API_Aula\\Controllers\\AlunoController.cs",
+              "RelativeDocumentMoniker": "API_Aula\\Controllers\\AlunoController.cs",
+              "ToolTip": "C:\\TesteDesenvolvimento\\2025_API_Jogos\\API_AulaApp\\API_Aula\\Controllers\\AlunoController.cs",
+              "RelativeToolTip": "API_Aula\\Controllers\\AlunoController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAswDwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T23:04:40.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\TesteDesenvolvimento\\2025_API_Jogos\\API_AulaApp\\API_Aula\\Model\\Aluno.cs",
+              "RelativeDocumentMoniker": "API_Aula\\Model\\Aluno.cs",
+              "ToolTip": "C:\\TesteDesenvolvimento\\2025_API_Jogos\\API_AulaApp\\API_Aula\\Model\\Aluno.cs",
+              "RelativeToolTip": "API_Aula\\Model\\Aluno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T22:58:04.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "API_Aula",
+              "DocumentMoniker": "C:\\TesteDesenvolvimento\\2025_API_Jogos\\API_AulaApp\\API_Aula\\API_Aula.csproj",
+              "RelativeDocumentMoniker": "API_Aula\\API_Aula.csproj",
+              "ToolTip": "C:\\TesteDesenvolvimento\\2025_API_Jogos\\API_AulaApp\\API_Aula\\API_Aula.csproj",
+              "RelativeToolTip": "API_Aula\\API_Aula.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-05T22:54:36.339Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
